@@ -9,4 +9,4 @@ Listado de trabajos - Sistemas de Representación Avanzada
 *[6_grid](https://silbel-96.github.io/7_grid/.)
 *[7_landingpage]()
 *[8_mondrian]()
-*[9_gridareas]()
+*[9_gridareas](d)
