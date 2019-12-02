@@ -7,6 +7,6 @@ Listado de trabajos - Sistemas de Representación Avanzada
 *[4_artist](https://silbel-96.github.io/4_artist/.)
 *[5_tarjetes](https://silbel-96.github.io/5_tarjetes/.)
 *[6_grid](https://silbel-96.github.io/7_grid/.)
-*[7_landingpage]()
+*[7_landingpage](https://silbel-96.github.io/7_landingpage/.)
 *[8_mondrian]()
 *[9_gridareas](d)
