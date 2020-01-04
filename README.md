@@ -8,5 +8,6 @@ Listado de trabajos - Sistemas de Representación Avanzada
 *[5_tarjetes](https://silbel-96.github.io/5_tarjetes/.)
 *[6_grid](https://silbel-96.github.io/7_grid/.)
 *[7_landingpage](https://silbel-96.github.io/7_landingpage/.)
-*[8_mondrian]()
+*[8_mondrian](https://silbel-96.github.io/8_mondrian/)
 *[9_minimalissimo](https://silbel-96.github.io/9_minimalissimo/)
+*[10_img_trocejada]()
