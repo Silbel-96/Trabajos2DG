@@ -10,5 +10,5 @@ Listado de trabajos - Sistemas de Representación Avanzada
 *[7_landingpage](https://silbel-96.github.io/7_landingpage/.)
 *[8_mondrian](https://silbel-96.github.io/8_mondrian/)
 *[9_minimalissimo](https://silbel-96.github.io/9_minimalissimo/)
-*[10_img_trocejada]()
+*[10_img_trocejada](https://silbel-96.github.io/10_imatgetrocejada/.)
 *[11_madebyfieldwork](https://silbel-96.github.io/11_madebyfieldwork/.)
